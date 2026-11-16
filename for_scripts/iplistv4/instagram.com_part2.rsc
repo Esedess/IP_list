@@ -138,6 +138,7 @@
 :do {add list=$AddressList comment=instagram.com address=157.240.253.41} on-error {}
 :do {add list=$AddressList comment=instagram.com address=157.240.253.63} on-error {}
 :do {add list=$AddressList comment=instagram.com address=157.240.254.41} on-error {}
+:do {add list=$AddressList comment=instagram.com address=157.240.26.11} on-error {}
 :do {add list=$AddressList comment=instagram.com address=157.240.26.33} on-error {}
 :do {add list=$AddressList comment=instagram.com address=157.240.26.63} on-error {}
 :do {add list=$AddressList comment=instagram.com address=157.240.27.11} on-error {}
@@ -311,6 +312,7 @@
 :do {add list=$AddressList comment=instagram.com address=185.60.216.50} on-error {}
 :do {add list=$AddressList comment=instagram.com address=185.60.217.13} on-error {}
 :do {add list=$AddressList comment=instagram.com address=185.60.217.20} on-error {}
+:do {add list=$AddressList comment=instagram.com address=185.60.217.3} on-error {}
 :do {add list=$AddressList comment=instagram.com address=185.60.217.34} on-error {}
 :do {add list=$AddressList comment=instagram.com address=185.60.217.63} on-error {}
 :do {add list=$AddressList comment=instagram.com address=185.60.218.142} on-error {}
@@ -348,5 +350,3 @@
 :do {add list=$AddressList comment=instagram.com address=199.16.156.38} on-error {}
 :do {add list=$AddressList comment=instagram.com address=199.16.156.39} on-error {}
 :do {add list=$AddressList comment=instagram.com address=199.16.156.40} on-error {}
-:do {add list=$AddressList comment=instagram.com address=199.16.156.7} on-error {}
-:do {add list=$AddressList comment=instagram.com address=199.16.156.71} on-error {}
